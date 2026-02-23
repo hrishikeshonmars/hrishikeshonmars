@@ -1,6 +1,16 @@
 # 💫 About Me:
-Hi, I'm Hrishikesh 👋  <br><br>Backend-focused Full Stack Engineer with 2+ years of experience building scalable APIs, secure systems, and production-ready web applications.<br><br>I enjoy designing clean backend architectures using Python (FastAPI/Django), building performant REST APIs, and deploying containerized applications on AWS. I’ve worked on real-world systems involving authentication (JWT/RBAC), database optimization, caching, and cloud deployments.<br><br>Recently, I’ve been exploring AI integrations — building LLM-powered features, automation systems, and intelligent workflows.<br><br>Tech I work with:<br>Python • FastAPI • Django • React • Node.js  <br>PostgreSQL • MySQL • MongoDB • Redis  <br>Docker • AWS • CI/CD • Linux  <br><br>I believe in writing clean, secure, and scalable code — and constantly leveling up.<br><br>Let’s build something impactful <br>
+Hi, I'm Hrishikesh 👋  <br><br>
+Backend-Focused Full Stack Engineer with 2+ years of experience building scalable APIs, secure backend systems, and cloud-ready applications.  <br><br>
+I specialize in Python (FastAPI/Django), high-performance REST APIs, authentication (JWT/RBAC), database optimization, caching, and AWS deployments.  <br><br>
+Currently exploring AI-powered features, LLM integrations, and intelligent automation systems.  <br><br>
 
+💻 Tech Stack:  <br>
+Python • FastAPI • Django • React • Node.js  <br>
+PostgreSQL • MySQL • MongoDB • Redis  <br>
+Docker • AWS • CI/CD • Linux  <br><br>
+
+I build clean, secure, and scalable systems — with a strong production mindset.  <br><br>
+🚀 Let’s build something impactful.
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/hrishikesh_ka) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://linkedin.com/in/hrishikesh-anil-129546284) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:hrishikeshka8@gmail.com) 
