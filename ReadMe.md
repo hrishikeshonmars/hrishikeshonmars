@@ -1,6 +1,6 @@
 # 💫 About Me:
 Hi, I'm Hrishikesh 👋  <br><br>
-Backend-Focused Full Stack Engineer with 2+ years of experience building scalable APIs, secure backend systems, and cloud-ready applications.  <br><br>
+Backend-Focused Full Stack Engineer with 2.5+ years of experience building scalable APIs, secure backend systems, and cloud-ready applications.  <br><br>
 I specialize in Python (FastAPI/Django), high-performance REST APIs, authentication (JWT/RBAC), database optimization, caching, and AWS deployments.  <br><br>
 Currently exploring AI-powered features, LLM integrations, and intelligent automation systems.  <br><br>
 💻 Tech Stack:  <br>
